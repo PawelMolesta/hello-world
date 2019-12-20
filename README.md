@@ -1,2 +1,3 @@
 # hello-world
-GitHub Course v.1
+GitHub Course Mv.1
+My name is Pawel. Im good guy. 
